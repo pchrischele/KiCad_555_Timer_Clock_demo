@@ -2334,7 +2334,7 @@
 			(uuid "ef344299-ed4f-4264-b744-33d54cce7141")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "J2")
 					(unit 1)
@@ -2398,7 +2398,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "H2")
 					(unit 1)
@@ -2434,7 +2434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:Terminal_Block_5mm"
 			(at 161.29 97.79 0)
 			(effects
 				(font
@@ -2468,7 +2468,7 @@
 			(uuid "5cdfc48a-0193-408b-9da7-6ddd28fecf55")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "J1")
 					(unit 1)
@@ -2534,7 +2534,7 @@
 			(uuid "e145bd1f-b799-4c52-a558-885ad566ec34")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "#FLG02")
 					(unit 1)
@@ -2669,7 +2669,7 @@
 			(uuid "c9900cd1-732c-4690-b073-275e022b1b08")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "C2")
 					(unit 1)
@@ -2703,7 +2703,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:tact_switch_5mm"
 			(at 160.02 82.55 0)
 			(effects
 				(font
@@ -2737,7 +2737,7 @@
 			(uuid "af71c862-3dc4-4ba1-8be4-3d3d7af944fb")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "SW2")
 					(unit 1)
@@ -2815,7 +2815,7 @@
 			(uuid "05b78837-37eb-48f4-aa5d-4ea00b3e40ac")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "D1")
 					(unit 1)
@@ -2879,7 +2879,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "H1")
 					(unit 1)
@@ -3012,7 +3012,7 @@
 			(uuid "f0fdb498-759b-4329-bee2-f1741ba4d411")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "R1")
 					(unit 1)
@@ -3081,7 +3081,7 @@
 			(uuid "c9900cd1-732c-4690-b073-275e022b1b09")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "C1")
 					(unit 1)
@@ -3145,7 +3145,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "H3")
 					(unit 1)
@@ -3362,7 +3362,7 @@
 			(uuid "bf5c99d8-98f6-451d-953d-3128ff64ecf1")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "U1")
 					(unit 1)
@@ -3492,7 +3492,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "H4")
 					(unit 1)
@@ -3558,7 +3558,7 @@
 			(uuid "7d4043c2-8112-4422-87df-6d0a3a3b0683")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "#PWR01")
 					(unit 1)
@@ -3696,7 +3696,7 @@
 			(uuid "f0fdb498-759b-4329-bee2-f1741ba4d412")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "R4")
 					(unit 1)
@@ -3796,7 +3796,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -3830,7 +3830,7 @@
 			(uuid "9bb5f62a-2abc-429e-8cc8-5e81efadad72")
 		)
 		(instances
-			(project ""
+			(project "555_Timer_Clock"
 				(path "/20801574-c7e9-4deb-947a-5143e918b622"
 					(reference "SW1")
 					(unit 1)
